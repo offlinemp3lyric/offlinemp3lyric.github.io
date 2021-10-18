@@ -1,0 +1,81 @@
+{
+  "Ads": [
+    {
+      "package_name": "com.offlinemp3lyric.techn9ne",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "select_backup_ads_inter":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"209383230",
+      "initialize_sdk_backup_ads":"209383230",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tech N9ne",
+      "image": "file:///android_asset/image/tech_n9ne.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tech N9ne",
+      "title": "Face Off",
+      "image": "file:///android_asset/image/tech_n9ne.jpg",
+      "link_mp3": "mp3/face_off.mp3",
+      "duration": "262",
+      "lyrics": "lyric/face_off.html" },
+    {
+      "id": 2,
+      "name_category": "Tech N9ne",
+      "title": "Dysfunctional",
+      "image": "file:///android_asset/image/tech_n9ne.jpg",
+      "link_mp3": "mp3/dysfunctional.mp3",
+      "duration": "245",
+      "lyrics": "lyric/dysfunctional.html" },
+    {
+      "id": 3,
+      "name_category": "Tech N9ne",
+      "title": "Worldwide Choppers",
+      "image": "file:///android_asset/image/tech_n9ne.jpg",
+      "link_mp3": "mp3/worldwide_choppers.mp3",
+      "duration": "330",
+      "lyrics": "lyric/worldwide_choppers.html" },
+    {
+      "id": 4,
+      "name_category": "Tech N9ne",
+      "title": "Straight Out The Gate",
+      "image": "file:///android_asset/image/tech_n9ne.jpg",
+      "link_mp3": "mp3/straight_out_the_gate.mp3",
+      "duration": "259",
+      "lyrics": "lyric/straight_out_the_gate.html" },
+    {
+      "id": 5,
+      "name_category": "Tech N9ne",
+      "title": "Like I Aint",
+      "image": "file:///android_asset/image/tech_n9ne.jpg",
+      "link_mp3": "mp3/like_i_aint.mp3",
+      "duration": "388",
+      "lyrics": "lyric/like_i_aint.html" },
+    {
+      "id": 6,
+      "name_category": "Tech N9ne",
+      "title": "Fragile",
+      "image": "file:///android_asset/image/tech_n9ne.jpg",
+      "link_mp3": "mp3/fragile.mp3",
+      "duration": "244",
+      "lyrics": "lyric/fragile.html" }
+  ]
+}
