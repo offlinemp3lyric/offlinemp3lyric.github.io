@@ -1,0 +1,39 @@
+{
+  "Ads": [
+    {
+      "package_name": "com.offlinemp3lyric.techn9ne",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "select_backup_ads_inter":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-4711669017712424/1754803671x",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"209383230",
+      "initialize_sdk_backup_ads":"209383230",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "HipHop",
+      "image": "file:///android_asset/image/ic_launcher.png"
+    
+  ],
+  "Data": [    
+{"id": 0,"name_category": "HipHop","title": "HipHop Music 0","image": "file:///android_asset/image/ic_launcher.png","link_mp3": "mp3/hiphop_music_0.mp3","duration": "245","lyrics": "lyric/hiphop_music_0.html"},
+{"id": 1,"name_category": "HipHop","title": "HipHop Music 1","image": "file:///android_asset/image/ic_launcher.png","link_mp3": "mp3/hiphop_music_1.mp3","duration": "262","lyrics": "lyric/hiphop_music_1.html"},
+{"id": 2,"name_category": "HipHop","title": "HipHop Music 2","image": "file:///android_asset/image/ic_launcher.png","link_mp3": "mp3/hiphop_music_2.mp3","duration": "244","lyrics": "lyric/hiphop_music_2.html"},
+{"id": 3,"name_category": "HipHop","title": "HipHop Music 3","image": "file:///android_asset/image/ic_launcher.png","link_mp3": "mp3/hiphop_music_3.mp3","duration": "388","lyrics": "lyric/hiphop_music_3.html"},
+{"id": 4,"name_category": "HipHop","title": "HipHop Music 4","image": "file:///android_asset/image/ic_launcher.png","link_mp3": "mp3/hiphop_music_4.mp3","duration": "259","lyrics": "lyric/hiphop_music_4.html"},
+{"id": 5,"name_category": "HipHop","title": "HipHop Music 5","image": "file:///android_asset/image/ic_launcher.png","link_mp3": "mp3/hiphop_music_5.mp3","duration": "330","lyrics": "lyric/hiphop_music_5.html"}
+  ]
+}
