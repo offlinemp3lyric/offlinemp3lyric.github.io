@@ -1,0 +1,195 @@
+{
+   "Ads":[
+      {
+         "package_name":"com.offlinemp3lyric.anggunpramudita",
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"STARTAPP",
+         "select_backup_ads_inter":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "interval_intertitial":2,
+         "initialize_sdk":"201669628",
+         "initialize_sdk_backup_ads":"201669628",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Anggun Pramudita",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":0,
+         "name_category":"Anggun Pramudita",
+         "title":"Bengkung",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/bengkung.mp3",
+         "duration":"348",
+         "lyrics":"lyric/bengkung.html"
+      },
+      {
+         "id":1,
+         "name_category":"Anggun Pramudita",
+         "title":"Bunga",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/bunga.mp3",
+         "duration":"514",
+         "lyrics":"lyric/bunga.html"
+      },
+      {
+         "id":2,
+         "name_category":"Anggun Pramudita",
+         "title":"Kemulan Bimbang",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/kemulan_bimbang.mp3",
+         "duration":"334",
+         "lyrics":"lyric/kemulan_bimbang.html"
+      },
+      {
+         "id":3,
+         "name_category":"Anggun Pramudita",
+         "title":"Kesikso Roso",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/kesikso_roso.mp3",
+         "duration":"208",
+         "lyrics":"lyric/kesikso_roso.html"
+      },
+      {
+         "id":4,
+         "name_category":"Anggun Pramudita",
+         "title":"Lebu",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/lebu.mp3",
+         "duration":"340",
+         "lyrics":"lyric/lebu.html"
+      },
+      {
+         "id":5,
+         "name_category":"Anggun Pramudita",
+         "title":"Loro Pikir Jaranan",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/loro_pikir_jaranan.mp3",
+         "duration":"341",
+         "lyrics":"lyric/loro_pikir_jaranan.html"
+      },
+      {
+         "id":6,
+         "name_category":"Anggun Pramudita",
+         "title":"Loro Pikir Official",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/loro_pikir_official.mp3",
+         "duration":"336",
+         "lyrics":"lyric/loro_pikir_official.html"
+      },
+      {
+         "id":7,
+         "name_category":"Anggun Pramudita",
+         "title":"Mangan Ati",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/mangan_ati.mp3",
+         "duration":"231",
+         "lyrics":"lyric/mangan_ati.html"
+      },
+      {
+         "id":8,
+         "name_category":"Anggun Pramudita",
+         "title":"Nestapa Hareudang Panas",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/nestapa_hareudang_panas.mp3",
+         "duration":"277",
+         "lyrics":"lyric/nestapa_hareudang_panas.html"
+      },
+      {
+         "id":9,
+         "name_category":"Anggun Pramudita",
+         "title":"Ngangen",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/ngangen.mp3",
+         "duration":"278",
+         "lyrics":"lyric/ngangen.html"
+      },
+      {
+         "id":10,
+         "name_category":"Anggun Pramudita",
+         "title":"Nono Artine",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/nono_artine.mp3",
+         "duration":"279",
+         "lyrics":"lyric/nono_artine.html"
+      },
+      {
+         "id":11,
+         "name_category":"Anggun Pramudita",
+         "title":"Ojo di Sio Sio",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/ojo_di_sio_sio.mp3",
+         "duration":"244",
+         "lyrics":"lyric/ojo_di_sio_sio.html"
+      },
+      {
+         "id":12,
+         "name_category":"Anggun Pramudita",
+         "title":"Rela Demi Cinta",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/rela_demi_cinta.mp3",
+         "duration":"309",
+         "lyrics":"lyric/rela_demi_cinta.html"
+      },
+      {
+         "id":13,
+         "name_category":"Anggun Pramudita",
+         "title":"Sambel Terasi",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/sambel_terasi.mp3",
+         "duration":"292",
+         "lyrics":"lyric/sambel_terasi.html"
+      },
+      {
+         "id":14,
+         "name_category":"Anggun Pramudita",
+         "title":"Sing Mungkin",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/sing_mungkin.mp3",
+         "duration":"327",
+         "lyrics":"lyric/sing_mungkin.html"
+      },
+      {
+         "id":15,
+         "name_category":"Anggun Pramudita",
+         "title":"Sukete Tonggo",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/sukete_tonggo.mp3",
+         "duration":"320",
+         "lyrics":"lyric/sukete_tonggo.html"
+      },
+      {
+         "id":16,
+         "name_category":"Anggun Pramudita",
+         "title":"Titip Welas",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/titip_welas.mp3",
+         "duration":"330",
+         "lyrics":"lyric/titip_welas.html"
+      },
+      {
+         "id":17,
+         "name_category":"Anggun Pramudita",
+         "title":"Welas Hang Ring Kene",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link_mp3":"mp3/welas_hang_ring_kene.mp3",
+         "duration":"0",
+         "lyrics":"lyric/welas_hang_ring_kene.html"
+      }
+   ]
+}
