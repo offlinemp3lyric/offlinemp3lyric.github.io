@@ -1,0 +1,47 @@
+{
+  "Ads": [
+    {
+      "package_name": "com.offlinemp3lyric.enysagitareligi",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "select_backup_ads_inter":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-4711669017712424/9207372924",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"211671199",
+      "initialize_sdk_backup_ads":"211671199",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Eny Sagita",
+      "image": "file:///android_asset/image/ic_launcher-playstore.png"
+    }
+  ],
+  "Data": [    
+
+{"id": 0,"name_category": "Eny Sagita","title": "Asmaul Husna","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/asmaul_husna.mp3","duration": "260","lyrics": "lyric/asmaul_husna.html"},
+{"id": 1,"name_category": "Eny Sagita","title": "Astaghfirullah","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/astaghfirullah.mp3","duration": "312","lyrics": "lyric/astaghfirullah.html"},
+{"id": 2,"name_category": "Eny Sagita","title": "Habibi Ya Nurul Aini","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/habibi_ya_nurul_aini.mp3","duration": "286","lyrics": "lyric/habibi_ya_nurul_aini.html"},
+{"id": 3,"name_category": "Eny Sagita","title": "Kidung Wahyu Kolosebo","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/kidung_wahyu_kolosebo.mp3","duration": "352","lyrics": "lyric/kidung_wahyu_kolosebo.html"},
+{"id": 4,"name_category": "Eny Sagita","title": "Lir Ilir","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/lir_ilir.mp3","duration": "307","lyrics": "lyric/lir_ilir.html"},
+{"id": 5,"name_category": "Eny Sagita","title": "Pejah Husnul Khotimah","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/pejah_husnul_khotimah.mp3","duration": "383","lyrics": "lyric/pejah_husnul_khotimah.html"},
+{"id": 6,"name_category": "Eny Sagita","title": "Saben Malem Jumat","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/saben_malem_jumat.mp3","duration": "329","lyrics": "lyric/saben_malem_jumat.html"},
+{"id": 7,"name_category": "Eny Sagita","title": "Sholawat Nariyah","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/sholawat_nariyah.mp3","duration": "232","lyrics": "lyric/sholawat_nariyah.html"},
+{"id": 8,"name_category": "Eny Sagita","title": "Slukusluku Bathok","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/slukusluku_bathok.mp3","duration": "238","lyrics": "lyric/slukusluku_bathok.html"},
+{"id": 9,"name_category": "Eny Sagita","title": "Syiir Tanpo Waton","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/syiir_tanpo_waton.mp3","duration": "710","lyrics": "lyric/syiir_tanpo_waton.html"},
+{"id": 10,"name_category": "Eny Sagita","title": "Tiket Suwargo","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/tiket_suwargo.mp3","duration": "342","lyrics": "lyric/tiket_suwargo.html"},
+{"id": 11,"name_category": "Eny Sagita","title": "Tombo Ati","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/tombo_ati.mp3","duration": "398","lyrics": "lyric/tombo_ati.html"},
+{"id": 12,"name_category": "Eny Sagita","title": "Turi Putih","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/turi_putih.mp3","duration": "254","lyrics": "lyric/turi_putih.html"}
+  ]
+}
