@@ -1,0 +1,56 @@
+{
+  "Ads": [
+    {
+      "package_name": "com.offlinemp3lyric.kupujapujadjkentrung",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "select_backup_ads_inter":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"209383230",
+      "initialize_sdk_backup_ads":"209383230",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Kalia  Siska",
+      "image": "file:///android_asset/image/ic_launcher-playstore.png"
+    }
+  ],
+  "Data": [    
+
+{"id": 0,"name_category": "Kalia Siska","title": "Aku Rindu Padamu","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/aku_rindu_padamu.mp3","duration": "270","lyrics": "lyric/aku_rindu_padamu.html"},
+{"id": 1,"name_category": "Kalia Siska","title": "Antara Benci Dan Rindu","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/antara_benci_dan_rindu.mp3","duration": "309","lyrics": "lyric/antara_benci_dan_rindu.html"},
+{"id": 2,"name_category": "Kalia Siska","title": "Apa Salah Dan Dosaku","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/apa_salah_dan_dosaku.mp3","duration": "327","lyrics": "lyric/apa_salah_dan_dosaku.html"},
+{"id": 3,"name_category": "Kalia Siska","title": "Balungan Kere","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/balungan_kere.mp3","duration": "400","lyrics": "lyric/balungan_kere.html"},
+{"id": 4,"name_category": "Kalia Siska","title": "Benci Kusangka Sayang","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/benci_kusangka_sayang.mp3","duration": "335","lyrics": "lyric/benci_kusangka_sayang.html"},
+{"id": 5,"name_category": "Kalia Siska","title": "Berharap Tak Berpisah","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/berharap_tak_berpisah.mp3","duration": "308","lyrics": "lyric/berharap_tak_berpisah.html"},
+{"id": 6,"name_category": "Kalia Siska","title": "Biarlah Semua Berlalu","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/biarlah_semua_berlalu.mp3","duration": "280","lyrics": "lyric/biarlah_semua_berlalu.html"},
+{"id": 7,"name_category": "Kalia Siska","title": "Bintang Kehidupan","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/bintang_kehidupan.mp3","duration": "382","lyrics": "lyric/bintang_kehidupan.html"},
+{"id": 8,"name_category": "Kalia Siska","title": "Dalan Liyane","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/dalan_liyane.mp3","duration": "270","lyrics": "lyric/dalan_liyane.html"},
+{"id": 9,"name_category": "Kalia Siska","title": "Dance Monkey","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/dance_monkey.mp3","duration": "220","lyrics": "lyric/dance_monkey.html"},
+{"id": 10,"name_category": "Kalia Siska","title": "Ku Puja Puja","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/ku_puja_puja.mp3","duration": "299","lyrics": "lyric/ku_puja_puja.html"},
+{"id": 11,"name_category": "Kalia Siska","title": "Memories","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/memories.mp3","duration": "212","lyrics": "lyric/memories.html"},
+{"id": 12,"name_category": "Kalia Siska","title": "Rela Demi Cinta","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/rela_demi_cinta.mp3","duration": "270","lyrics": "lyric/rela_demi_cinta.html"},
+{"id": 13,"name_category": "Kalia Siska","title": "Sakit Dalam Bercinta","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/sakit_dalam_bercinta.mp3","duration": "252","lyrics": "lyric/sakit_dalam_bercinta.html"},
+{"id": 14,"name_category": "Kalia Siska","title": "Salah Apa Aku","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/salah_apa_aku.mp3","duration": "288","lyrics": "lyric/salah_apa_aku.html"},
+{"id": 15,"name_category": "Kalia Siska","title": "Sangu Mbesuk","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/sangu_mbesuk.mp3","duration": "258","lyrics": "lyric/sangu_mbesuk.html"},
+{"id": 16,"name_category": "Kalia Siska","title": "Satu Nama Tetap Dihati","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/satu_nama_tetap_dihati.mp3","duration": "323","lyrics": "lyric/satu_nama_tetap_dihati.html"},
+{"id": 17,"name_category": "Kalia Siska","title": "Seberkas Sinar","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/seberkas_sinar.mp3","duration": "341","lyrics": "lyric/seberkas_sinar.html"},
+{"id": 18,"name_category": "Kalia Siska","title": "Sekejam Itu Kau Fitnahkan","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/sekejam_itu_kau_fitnahkan.mp3","duration": "367","lyrics": "lyric/sekejam_itu_kau_fitnahkan.html"},
+{"id": 19,"name_category": "Kalia Siska","title": "Tak Ikhlasno","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/tak_ikhlasno.mp3","duration": "305","lyrics": "lyric/tak_ikhlasno.html"},
+{"id": 20,"name_category": "Kalia Siska","title": "Tatu","image": "file:///android_asset/image/ic_launcher-playstore.png","link_mp3": "mp3/tatu.mp3","duration": "340","lyrics": "lyric/tatu.html"}
+
+  ]
+}
